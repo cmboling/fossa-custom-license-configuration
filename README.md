@@ -1,6 +1,6 @@
 # FOSSA Custom License Configuration
 
-The purpose of this repository is to demonstrate FOSSA's new custom license and keyword search feature. Details about it can be found [here](https://github.com/fossas/fossa-cli/blob/master/docs/features/custom-license-and-keyword-searches.md) 
+The purpose of this repository is to demonstrate FOSSA's new custom license and keyword search feature. Details about it can be found [here](https://github.com/fossas/fossa-cli/blob/master/docs/features/custom-license-and-keyword-searches.md).
 
 ### Example output
 
