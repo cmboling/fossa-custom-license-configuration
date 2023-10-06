@@ -1,0 +1,9 @@
+version: 3
+
+customLicenseSearch:
+  - matchCriteria: (?i)this project is provided under a proprietary license
+    name: Proprietary License
+
+experimentalKeywordSearch:
+  - matchCriteria: abc123
+    name: Password
